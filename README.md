@@ -1,0 +1,2 @@
+# StoolStats
+App for school
